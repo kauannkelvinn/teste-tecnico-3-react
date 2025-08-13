@@ -19,7 +19,7 @@ O formulário coleta os dados básicos: nome, email, telefone e senha, com valid
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/kauannkelvinn/teste-tecnico-3-react
    ```
 
 2. Entre na pasta do projeto:
